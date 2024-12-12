@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>你好世界，我是陈主任</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+      background-color:#A8CDBC;
+      text-align:center;
+      padding:30px;
+    ">
+      <img src="https://www.helloimg.com/i/2024/12/12/675a56797ff55.png" alt="error" width="90px" height="90px" >
+    </div>
+    <div style="
+      max-width : 700px;
+      margin : 30px auto;
+      padding : 15px;
+      line-height : 1.8
+      text-align : center;
+      background-color : #D4ECE1
+      
+    "> 
+      <p>嗨!我是陈主任。</p>
+      <p style="color:grey;
+      ">或者村主任。或者煮字段。</p>
+      <p>我的木吉他是伊斯特曼PCH1OM-CLA,很漂亮。</p>
+      <p>我的电吉他是依霹风Les Paul Standard Cherry Sunburst,也很漂亮。</p>
+      <p>我的贝斯是Warwick Castle,也漂亮，暂时还没有拿到，不过快了。</p>
+      <p>我将在这里实时更新速通html的进程，请来监督我。
+    </div>
+ <div style="
+      background-color:#A8CDBC;
+      text-align:center;
+      padding:30px;
+      font-size: 14px;
+    ">
+      <p>以防你不知道我最喜欢的乐队：</p>
+      <a href="https://music.163.com/#/artist?id=98110">点这个看看</a>
+      <p>我是网易云用户，这是我的主页:</p>
+      <a href=" https://y.music.163.com/m/user?id=1797227356&dlt=0846&app_version=9.2.15">notClo</a>
+    </div>
+  </body>
+</html>
